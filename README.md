@@ -1,5 +1,7 @@
 # boot-oracle-procedure
 
+This Project demonstrates invoking oracle stored procedure from Java, which returns multiple rows of table/list of records. It shows how the results can be mapped to a Java Object.
+
 ## DB Procedure/Package/Types Creation Scripts
 
 - Object Type Creation
